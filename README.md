@@ -5,7 +5,6 @@ With over two years of mobile application development experience and a desire fo
 Here are some interesting facts related to me:
 
 - 🔭 I’m currently working on Flutter 
-- 🌱 I’m currently learning Flutter testing
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Mobile application development 
 - 💬 Ask me about Mobile application development and Firebase/Firestore Data modeling
